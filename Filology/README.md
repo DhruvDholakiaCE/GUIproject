@@ -39,6 +39,16 @@ or
 ```bash
   Filology.exe
 ```
+## Demo
+
+Link to demo
+
+https://drive.google.com/file/d/1iNf74NqU1ZWMKS7bjM_w0mOMbkT4JV9b/view?usp=sharing
+
+
+## Screenshots
+
+![App Screenshot](./filology.png)
 
 ## Lessons Learned
 
@@ -50,15 +60,4 @@ System level Copy and Paste live progress information is not available in this b
 
 - [@DhruvDholakia](https://www.github.com/DhruvDholakiaCE)
 
-
-## Demo
-
-Link to demo
-
-https://drive.google.com/file/d/1iNf74NqU1ZWMKS7bjM_w0mOMbkT4JV9b/view?usp=sharing
-
-
-## Screenshots
-
-![App Screenshot](./filology.png)
 
