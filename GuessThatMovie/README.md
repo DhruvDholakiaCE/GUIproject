@@ -24,7 +24,7 @@ It is a simple Tkinter based guessing game.
 
 - Timer
 - Hints
-- Chances (3)
+- Chances (5)
 - Shows original guess with random spaces
 - InputBox to type the guess
 - Sounds for correct/incorrect guesses
@@ -48,6 +48,7 @@ To deploy this project run download this folder consisting game file and sounds 
 
 - The current movie data can be edited by simply changing the data dictionary inside the code.
 - Data =  { Movie_Name: Associated_Hint }
+- 
 ![Code Snippet](./carbon.png)
 ## Demo
 
